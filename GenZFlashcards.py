@@ -3,8 +3,8 @@ from datetime import datetime
 
 
 greeting_messages = ['Hi!']
-right_answer_messages = ['That's correct! I knew you could do it!']
-wrong_answer_messages = ['That's incorrect. You'll get it next time. Let\'s try another one...']
+right_answer_messages = ['That is correct! I knew you could do it!']
+wrong_answer_messages = ['That is incorrect. You will get it next time. Let\'s try another one...']
 
 level1_base = [0, 1, 2, 5, 10]
 level2_base = [0, 1, 2, 4, 5, 10, 11]
@@ -156,7 +156,7 @@ while keep_playing == str.lower('y'):
 		f.write(linebreak)
 
 		
-		keep_playing = input('Do you want to play again? (Type y or n and then press enter)')
+		keep_playing = input('Congratulations, you have made it to the end of the test! Do you want to play again? (Type y or n and then press enter)')
 		
 
 	else:
