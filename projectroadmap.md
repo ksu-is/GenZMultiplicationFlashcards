@@ -11,10 +11,10 @@ ___
 - [X] Task 3 DONE - Find existing examples of similar repository(s) **(Allison)**
 - [X] Task 4 DONE - Clone existing respository code to team **(Allison)**
 - [X] Task 5 DONE - Evaluate the existing repository clone inputs **(Allison)**
-- [ ] Task 6 - Edit/Customize greeting tool for the software **(Paris)**
+- [X] Task 6 DONE - Edit/Customize greeting tool for the software **(Paris)**
 - [ ] Task 7 - Add comments as necessary to changes made in cloned repository **(Paris)**
 - [ ] Task 8 - Edit & create appropriate input/questions **(Allison)**
-- [ ] Task 9 - Run software to test accuracy and effectiveness of ideas **(Paris)**
+- [X] Task 9 DONE - Run software to test accuracy and effectiveness of ideas **(Paris)**
 - [ ] Task 10 - Make effective changes necessary for multiplication section of program **(Paris)**
 - [ ] Task 11 - Do a final test run of program **(Allison)**
 - [ ] Task 12 - Review final code before submission **(Paris)**
