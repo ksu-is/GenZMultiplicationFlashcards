@@ -18,9 +18,9 @@ name = input('Hello, welcome to the GenZ Multiplication flashcard game!\n\nPleas
 if str.lower(name) == 'maddie':
 	pass
 else:
-	print("\nEither you're trying to trick me, OR you spelled you're name wrong!  I'm going to call you Maddie McStinkerButt for now!",
+	print("\nEither you're trying to trick me, OR you spelled you're name wrong!  I'm going to call you Smarty Pants for now!",
 		"anyway! :-)")
-	name = 'Maddie McStinkerButt'
+	name = 'Smarty Pants'
 
 
 keep_playing = 'y'
