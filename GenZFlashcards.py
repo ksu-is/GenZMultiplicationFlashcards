@@ -30,7 +30,7 @@ while keep_playing == str.lower('y'):
 	wrong = []
 	total = []
 
-	f = open('Maddie multiplaction results.txt', 'a+')
+	f = open('multiplaction results.txt', 'a+')
 	level = input('What level would you like to play? (Please type 1, 2, or 3 and then press enter:\t')
 	# level = 1
 	if int(level) == 1:
