@@ -19,5 +19,6 @@ ___
 - [ ] Task 11 - Do a final test run of program **(Allison)**
 - [ ] Task 12 - Review final code before submission **(Paris)**
 - [ ] Task 13 - Create powerpoint slide for turn in **(Paris)**
-- [ ] Task 14 - Submit in presentation form for final grade **(Allison)**
+- [X] Task 14 DONE - Upload PowerPoint slide in GitHub **(Allison)**
+- [ ] Task 15 - Submit in presentation form for final grade **(Allison)**
 <h2>Project Road Map</h2>
