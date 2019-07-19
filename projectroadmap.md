@@ -18,7 +18,7 @@ ___
 - [ ] Task 10 - Make effective changes necessary for multiplication section of program **(Paris)**
 - [ ] Task 11 - Do a final test run of program **(Allison)**
 - [ ] Task 12 - Review final code before submission **(Paris)**
-- [ ] Task 13 - Create powerpoint slide for turn in **(Paris)**
+- [X] Task 13 DONE - Create powerpoint slide for turn in **(Paris)**
 - [X] Task 14 DONE - Upload PowerPoint slide in GitHub **(Allison)**
 - [ ] Task 15 - Submit in presentation form for final grade **(Allison)**
 <h2>Project Road Map</h2>
