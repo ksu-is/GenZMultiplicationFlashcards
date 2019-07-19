@@ -13,15 +13,11 @@ common_numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 
 print('\n\n')
 name = input('Hello, welcome to the GenZ Multiplication flashcard game!\n\nPlease type your name so we can get to know each other:\t')
-# name = 'maddie'
+# name = 'persons name'
+# changed field to allow any name entry other than maddie to be entered into the program
 
-if str.lower(name) == 'maddie':
+if str.lower(name) == '':
 	pass
-else:
-	print("\nEither you're trying to trick me, OR you spelled you're name wrong!  I'm going to call you Smarty Pants for now!",
-		"anyway! :-)")
-	name = 'Smarty Pants'
-
 
 keep_playing = 'y'
 
@@ -157,7 +153,7 @@ while keep_playing == str.lower('y'):
 
 		
 		keep_playing = input('Congratulations, you have made it to the end of the test! Do you want to play again? (Type y or n and then press enter)')
-		
+		# Congratulatory message added to reflect README requirements  
 
 	else:
 		print("\n\nI'm sorry, I know I'm just a computer, but I don't think you typed a 1, 2, or 3.")
