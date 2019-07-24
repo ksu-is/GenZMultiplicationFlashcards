@@ -12,12 +12,12 @@ ___
 - [X] Task 4 DONE - Clone existing respository code to team **(Allison)**
 - [X] Task 5 DONE - Evaluate the existing repository clone inputs **(Allison)**
 - [X] Task 6 DONE - Edit/Customize greeting tool for the software **(Paris)**
-- [ ] Task 7 - Add comments as necessary to changes made in cloned repository **(Paris)**
+- [X] Task 7 DONE - Add comments as necessary to changes made in cloned repository **(Paris)**
 - [X] Task 8 DONE - Edit & create appropriate input/questions **(Allison)**
 - [X] Task 9 DONE - Run software to test accuracy and effectiveness of ideas **(Paris)**
-- [ ] Task 10 - Make effective changes necessary for multiplication section of program **(Paris)**
+- [X] Task 10 DONE - Make effective changes necessary for multiplication section of program **(Paris)**
 - [X] Task 11 DONE - Do a final test run of program **(Allison)**
-- [ ] Task 12 - Review final code before submission **(Paris)**
+- [X] Task 12 DONE - Review final code before submission **(Paris)**
 - [X] Task 13 DONE - Create powerpoint slide for turn in **(Paris)**
 - [X] Task 14 DONE - Upload PowerPoint slide in GitHub **(Allison)**
 - [ ] Task 15 - Submit in presentation form for final grade **(Allison)**
