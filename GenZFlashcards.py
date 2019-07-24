@@ -61,6 +61,7 @@ while keep_playing == str.lower('y'):
 
 		print(time_message)
 		print(accuracy)
+		print("Congratulations, you have made it to the end of the test!")
 		print(linebreak)
 		f.write(time_message)
 		f.write(accuracy)
@@ -100,6 +101,7 @@ while keep_playing == str.lower('y'):
 
 		print(time_message)
 		print(accuracy)
+		print("Congratulations, you have made it to the end of the test!")
 		print(linebreak)
 		f.write(time_message)
 		f.write(accuracy)
@@ -139,17 +141,19 @@ while keep_playing == str.lower('y'):
 		duration = end - start
 		time_message = 'Total time to answer 10 problems: ' + str(duration) + ' seconds.\n'
 		accuracy = 'You answered ' + str(len(right)) + ' out of 10 questions correctly.\n'
+		print("Congratulations, you have made it to the end of the test!")
 		linebreak = '\n ################################################ \n\n'
 
 		print(time_message)
 		print(accuracy)
+		print("Congratulations, you have made it to the end of the test!")
 		print(linebreak)
 		f.write(time_message)
 		f.write(accuracy)
 		f.write(linebreak)
 
 		
-		keep_playing = input('Congratulations, you have made it to the end of the test! Do you want to play again? (Type y or n and then press enter)')
+		keep_playing = input('Do you want to play again? (Type y or n and then press enter)')
 		 
 
 	else:
@@ -157,4 +161,3 @@ while keep_playing == str.lower('y'):
 		print("\nPlease try again")
 	
 print('Thank you so much for playing! Goodbye!')
-
