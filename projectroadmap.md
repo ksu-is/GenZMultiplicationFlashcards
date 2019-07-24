@@ -20,5 +20,5 @@ ___
 - [X] Task 12 DONE - Review final code before submission **(Paris)**
 - [X] Task 13 DONE - Create powerpoint slide for turn in **(Paris)**
 - [X] Task 14 DONE - Upload PowerPoint slide in GitHub **(Allison)**
-- [ ] Task 15 - Submit in presentation form for final grade **(Allison)**
+- [X] Task 15 DONE - Submit in presentation form for final grade **(Allison)**
 <h2>Project Road Map</h2>
