@@ -14,7 +14,7 @@ common_numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 print('\n\n')
 name = input('Hello, welcome to the GenZ Multiplication flashcard game!\n\nPlease type your name so we can get to know each other:\t')
 # name = 'persons name'
-# changed field to allow any name entry other than maddie to be entered into the program
+
 
 if str.lower(name) == '':
 	pass
@@ -28,7 +28,7 @@ while keep_playing == str.lower('y'):
 
 	f = open('multiplaction results.txt', 'a+')
 	level = input('What level would you like to play? (Please type 1, 2, or 3 and then press enter:\t')
-	# level = 1
+	
 	if int(level) == 1:
 		print('OK, ' + str.title(name) + ', let\'s get started on Level ' + str(level) + '.\n')
 		print('10 problems coming your way, let\'s get started!')
@@ -107,10 +107,7 @@ while keep_playing == str.lower('y'):
 
 		
 		keep_playing = input('Do you want to play again? (Type y or n and then press enter)')
-		# except Exception as e:
-		# 	print(e)
-		# 	f.write("An error occurred: " + str(e))
-		# 	print("Uh oh, an error occurred.  Go ask Daddy for help!!! :-( ")
+
 
 		f.close()
 
@@ -153,11 +150,11 @@ while keep_playing == str.lower('y'):
 
 		
 		keep_playing = input('Congratulations, you have made it to the end of the test! Do you want to play again? (Type y or n and then press enter)')
-		# Congratulatory message added to reflect README requirements  
+		 
 
 	else:
 		print("\n\nI'm sorry, I know I'm just a computer, but I don't think you typed a 1, 2, or 3.")
 		print("\nPlease try again")
 	
-print('Thank you so much for playing!  Goodbye!')
+print('Thank you so much for playing! Goodbye!')
 
